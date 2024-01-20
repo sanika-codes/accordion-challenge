@@ -1,0 +1,14 @@
+.accordion-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  .accordion-button span {
+    font-size: 20px;
+    font-weight: bold;
+  }
